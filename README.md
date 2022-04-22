@@ -1,16 +1,38 @@
-### Hi there 👋
+## Hey there, I'm Andy Guo </br> ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=matrix2113.matrix2113)
 
-<!--
-**matrix2113/matrix2113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class AndyG:
 
-Here are some ideas to get you started:
+    def __init__(self):
+        self.username = 'matrix2113'
+        self.name = 'Andy Guo'
+        self.web = 'https://andyguo.org'
+        self.company = 'https://matax.gg'
+        self.twitter = '@tsm_matrix'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
+            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
+            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+        }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = AndyG()
+
+
+```
+## Get in touch
+
+- Discord: https://discord.matax.gg/
+- Email: hello@andyguo.org
+- Personal Site: https://andyguo.org
+
+## Credits
+
+⭐️ From [rafnixg](https://github.com/rafnixg)
