@@ -10,12 +10,12 @@ class AndyG:
         self.company = 'https://matax.gg'
         self.twitter = '@tsm_matrix'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
-            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+            'frontend': ['HTML', 'CSS', 'TypeScript', 'JavaScript', 'Boostrap', 'TailWind'],
+            'backend': ['Python', 'Flask'],
+            'database': ['MongoDB', 'MySQL', 'MariaDB', 'PostgreSQL'],
+            'devops': ['Docker', 'Nginx',],
+            'tools': ['GIT', 'GitHub', 'Redis'],
+            'misc': ['Ubuntu']
         }
 
     def __str__(self):
