@@ -6,9 +6,7 @@ class AndyG:
     def __init__(self):
         self.username = 'matrix2113'
         self.name = 'Andy Guo'
-        self.web = 'https://andyguo.org'
-        self.company = 'https://matax.gg'
-        self.twitter = '@tsm_matrix'
+        self.company = 'https://ondrya.com'
         self.code = {
             'frontend': ['HTML', 'CSS', 'TypeScript', 'JavaScript', 'Boostrap', 'TailWind'],
             'backend': ['Python', 'Flask'],
@@ -29,9 +27,8 @@ if __name__ == '__main__':
 ```
 ## Get in touch
 
-- Discord: https://discord.matax.gg/
-- Email: hello@andyguo.org
-- Personal Site: https://andyguo.org
+- Support: https://ondrya.zendesk.com/
+- Email: hello@ondrya.com
 
 ## Credits
 
